@@ -143,10 +143,11 @@ export const popularBrands = [
 export const footerTop = [
   {
     id: 1,
-    icon: <CiMedal size={60} />,
+    icon: "<CiMedal size={60} />",
     title: "India’s #1",
-    subtitel: "Largest Auto portal",
+    subtitle: "Largest Auto portal",
   },
+  
   {
     id: 2,
     icon: <CiDeliveryTruck size={60} />,

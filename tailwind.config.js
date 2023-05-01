@@ -26,3 +26,5 @@ module.exports = {
     },
     plugins: [],
   }
+  const defaultTheme = require('tailwindcss/defaultTheme')
+

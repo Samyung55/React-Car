@@ -150,19 +150,19 @@ export const footerTop = [
   
   {
     id: 2,
-    icon: <CiDeliveryTruck size={60} />,
+    icon: "<CiDeliveryTruck size={60} />",
     title: "Car Sold",
     subtitel: "Every 4 minute",
   },
   {
     id: 3,
-    icon: <VscTag size={60} />,
+    icon: "<VscTag size={60} />",
     title: "Offers",
     subtitel: "Stay updated pay less",
   },
   {
     id: 4,
-    icon: <AiOutlineCar size={60} />,
+    icon: "<AiOutlineCar size={60} />",
     title: "Compare",
     subtitel: "Decode the right car",
   },
